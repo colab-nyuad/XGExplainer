@@ -1,0 +1,15 @@
+{
+    "model": {
+        "dataset": "syn4",
+        "paper": "GNN",
+        "lr" : 0.001,
+        "weight_decay": 0,
+        "b": 0.1,
+        "epochs" : 2000,
+        "clip_max" : 2.0,
+        "batch_size": 64,
+        "early_stopping": 100,
+        "seed" : 42,
+        "eval_enabled" : true
+    }
+}
