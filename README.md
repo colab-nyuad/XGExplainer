@@ -1,5 +1,4 @@
-# XGExplainer: Experiments on Node and Graph Classification
-
+# XGExplainer: Robust Evaluation-based Explanation for Graph Neural Networks
 This directory contains the code and datasets for node and graph classification experiments.
 
 For the experiment of explanations for node and graph classification, we customize the experiment setting and implementation of GNNExplainer taken from [ MixupExplainer: Generalizing Explanations for Graph Neural
