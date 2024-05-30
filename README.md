@@ -197,3 +197,18 @@ For obtaining explanations on node and graph classification tasks, we achieved t
 |             |      BA-Shapes      |  BA-Community |  Tree-Cycles  |   Tree-Grids  |      BA-2motifs      |     MUTAG     |
 | XGExplainer<sub>+GNNE</sub> |    0.958 ± 0.001    | 0.839 ± 0.001 | 0.749 ± 0.002 | 0.741 ± 0.003 |     0.708 ± 0.011    | 0.696 ± 0.001 |
 | XGExplainer<sub>+PGE</sub> |    1.000 ± 0.000    | 0.993 ± 0.002 | 0.944 ± 0.003 | 0.940 ± 0.014 |     0.971 ± 0.014    | 0.919 ± 0.032 |0p-
+
+
+# Citations
+Please cite the paper and star this repo if you use XGExplainer. Feel free to contact ryoji.kubo@nyu.edu or open an issue if you have any questions.
+
+```bibtex
+@inproceedings{kubo2024xgexplainer,
+  title={XGExplainer: Robust Evaluation-based Explanation for Graph Neural Networks},
+  author={Kubo, Ryoji and Difallah, Djellel},
+  booktitle={Proceedings of the 2024 SIAM International Conference on Data Mining (SDM)},
+  pages={64--72},
+  year={2024},
+  organization={SIAM}
+}
+```
